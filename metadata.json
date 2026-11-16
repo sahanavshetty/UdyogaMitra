@@ -1,0 +1,10 @@
+{
+  "name": "Udyoga Mitra",
+  "description": "Speak Your Skills. Find Your Work. A voice-first multilingual job-matching platform connecting rural youth in India with local employers.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
